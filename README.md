@@ -12,3 +12,8 @@ I was very dissapointed with how little I was able to achieve in this project du
 
 Overall, I am very unhappy with how this project turned out. I was initially excited to create a boids flocking algorithm and put my new found c++ and OOP knowledge to use. I think I could of done a lot better than what I ended up with had I not had so many technical problems restricting me. While programming is definitely not my forte and not something I think I will pursue career wise in the future, it's still an important area of 3DCG and I feel my mowledge of it was not expressed here. Over the summer I plan on seeing if I can perhaps find a fix to some of these major issues I've been having, and if successful, plan on revisiting this project as well as looking at programming a simple game. 
 
+###bibliography
+
+September 6 2001, Craig Reynolds, Boids, USA. (https://www.red3d.com/cwr/boids/)
+
+When I was initially trying to create a flocking system I was using this page written by Craig Reynolds that explains the three basic ideas of the the system works and links to some resources about how one might go about implementing these in code. This was mainly useful to try and get an understanding of the theory behind the subject but not so much as to the actual c++ implementation.
