@@ -17,3 +17,7 @@ Overall, I am very unhappy with how this project turned out. I was initially exc
 September 6 2001, Craig Reynolds, Boids, USA. (https://www.red3d.com/cwr/boids/)
 
 When I was initially trying to create a flocking system I was using this page written by Craig Reynolds that explains the three basic ideas of the the system works and links to some resources about how one might go about implementing these in code. This was mainly useful to try and get an understanding of the theory behind the subject but not so much as to the actual c++ implementation.
+
+March 6 2018, Kate Gregory, c++17 Fundamentals, USA. (https://app.pluralsight.com/library/courses/cplusplus-fundamentals-c17/table-of-contents)
+
+this was a very useful Pluralsight class that goes over much of modern c++ as well as some basic OOP/OOD theory. 
